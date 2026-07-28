@@ -1,0 +1,14 @@
+{
+  "name": "privacy-pump-zk-circuits",
+  "description": "Research circuits and public-input specifications for Privacy Pump private transfers.",
+  "maturity": "Research/reference; not production-ready",
+  "network": "Network-independent research",
+  "topics": [
+    "privacy-pump",
+    "zero-knowledge",
+    "zk",
+    "cryptography",
+    "research"
+  ],
+  "visibility": "public-after-verification"
+}
